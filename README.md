@@ -1,2 +1,2 @@
 # Algoritmo de desviacion estandar
- Se realiza una ambientación espacio-temporal Bruno Basso (2021).  
+ Se realiza una ambientación espacio-temporal Maestrini B. and Basso B. (2021).  
